@@ -25,11 +25,22 @@
     flex-wrap: wrap;
 }
 
-.grid-item {
+.grid-item-s {
+    width: 6px;
+    height: 6px;
+    border: solid 1px #666;
+}
+
+
+.grid-item-m {
     width: 14px;
     height: 14px;
     border: solid 1px #666;
 }
 
-
+.grid-item-l {
+    width: 30px;
+    height: 30px;
+    border: solid 1px #666;
+}
 
